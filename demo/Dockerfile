@@ -1,0 +1,3 @@
+FROM docker-uirecorder
+
+COPY . . 
